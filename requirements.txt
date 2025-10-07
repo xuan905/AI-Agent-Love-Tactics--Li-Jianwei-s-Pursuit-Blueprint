@@ -1,0 +1,4 @@
+# requirements.txt
+# 目前自動掃描專案內的 Python 檔案後，未偵測到需安裝的第三方套件（僅使用標準函式庫，如 random）。
+# 如果未來加入第三方套件，請在此檔案內以 pip freeze 格式（或 package==version）加入，例如：
+# numpy==1.26.0
